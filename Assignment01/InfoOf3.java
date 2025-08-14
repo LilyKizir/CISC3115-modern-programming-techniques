@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class funWithNumbers {
+public class InfoOf3 {
     public static void main(String[] args){
         int num1, num2, num3;
         Scanner input = new Scanner(System.in);
