@@ -19,7 +19,7 @@ boolean isNegative = x < 0;
 rather than:
 ```java
 boolean isNegative;
-if (x i< 0)
+if (x < 0)
 isNegtive = true;
 else
 isNegative = false;
